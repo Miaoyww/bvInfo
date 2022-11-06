@@ -4,7 +4,7 @@ NoneBot2的插件, 用于获取卡片式bilibili视频详情
 
 使用方法:
 
-`bvf | bvinfo + b23tv短链网址 | bilibili.com网址 | Bv号 | Av号`
+`bvf | bvinfo + b23tv短链网址 | bilibili.com网址 | Bv号`
 
 示例:
 
